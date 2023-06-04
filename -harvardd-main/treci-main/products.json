@@ -1,0 +1,56 @@
+[
+    {
+        "image": "slike/crest.webp" ,
+        "title": "Harvard Crest Sticker" ,
+        "description": "Harvard stickers are a perfect touch to customize a water bottle, laptop, or phone case! Keep it simple with a Crest Sticker." ,
+        "price": "$4.99"
+    },
+    {
+        "image": "slike/hood.webp" ,
+        "title": "Pro-Weave Hood" ,
+        "description": "Show off your crimson spirit in style with this pro-weave crewneck! Soft, comfortable, and warm." ,
+        "price": "$99.99"
+    },
+    {
+        "image": "slike/cap.webp" ,
+        "title": "Harvard Athletic Shield Hat" ,
+        "description": "Stay sporty with this comfortable hat featuring Harvard's athletic shield. " ,
+        "price": "$27.99"
+    },
+    {
+        "image": "slike/pants.webp" ,
+        "title": "Harvard Sweatpants" ,
+        "description": "Be comfortable in class with these classic Harvard sweatpants." ,
+        "price": "$39.99"
+    },
+    {
+        "image": "slike/mug.webp" ,
+        "title": "Harvard Crest Mug" ,
+        "description": "The classic Harvard mug in white and crimson looks great in any home or office. Show your spirit!" ,
+        "price": "$14.99"
+    },
+    {
+        "image": "slike/top.webp" ,
+        "title": "Harvard Tailgate Top" ,
+        "description": "From popular women’s collegiate brands Hype and Vice comes the Harvard Tailgate Top!" ,
+        "price": "$39.99"
+    },
+    {
+        "image": "slike/chain.webp" ,
+        "title": "Harvard Enamel Crest Keychain" ,
+        "description": "Show off your Harvard pride with this keychain!" ,
+        "price": "$7.99"
+    },
+    {
+        "image": "slike/shirt.webp" ,
+        "title": "Harvard Victory Tee" ,
+        "description": "Comfy and understated, this tee is the best way to show your spirit around campus." ,
+        "price": "$29.99"
+    },
+    {
+        "image": "slike/pennant.webp" ,
+        "title": "Rectangular Harvard Pennant" ,
+        "description": "This Rectangular Harvard Pennant adds a splash of crimson spirit to any room." ,
+        "price": "$34.99"
+    }
+]
